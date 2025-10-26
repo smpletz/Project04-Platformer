@@ -1,7 +1,13 @@
-# Exercise-04d-coins
+# Project04-Platformer
 
 ## Implementation
-Added coin objects that can be added into the scene via tile map. Coins can be collected and counted in the console.
+Added sound effects to all interactable objects
+- Player footsteps
+- Player jump
+- Enemy death (all enemies)
+- "Bounce" noise for jumping enemy
+- Footsteps for walking enemies
+- "Whoosh" effect for charging enemy
 
 ## References
 
@@ -11,6 +17,9 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 
 Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
+
+All Sound effects created in chiptone
+https://sfbgames.itch.io/chiptone
 
 ## Future Development
 
